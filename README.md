@@ -11,8 +11,11 @@ Prompt engineering is the process of designing and crafting effective prompts to
 This repository is intended to document my practice and experiments in crafting prompts for various AI models. It contains various attempts at improving the results of AI-driven text generation, with a focus on learning how to better communicate and guide AI models to produce the most relevant and accurate outputs.
 
 ## Installation:
-Install gitleaks for secret scanning: brew install gitleaks
-Install pre-commit: pip install pre-commit
-Install pre-commit hooks: pre-commit install
-How to run Gitleaks to generate a report:
-gitleaks detect --source="." --report-path="gitleaks-report.json"
+
+- Install gitleaks for secret scanning: `brew install gitleaks`
+- Install pre-commit: `pip install pre-commit`
+- Install pre-commit hooks: `pre-commit install`
+
+## How to run Gitleaks to generate a report:
+
+`gitleaks detect --source="." --report-path="gitleaks-report.json"`
