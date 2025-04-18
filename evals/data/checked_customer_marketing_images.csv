@@ -1,0 +1,6 @@
+customer_id,customer_information,customer_profile,image_path,approved
+1,"Loves hiking, owns two dogs, enjoys gardening, resides in a rural area near mountains.",Outdoor Enthusiast,./out/f002dd7b-c5cf-4770-91dd-b2b448ab01a7.png,1
+2,"Works in finance, enjoys city life, likes modern architecture, lives in a downtown area.",Urban Professional,./out/cc56bca8-34fb-492b-80ab-2160141548ba.png,1
+3,"Enjoys surfing, beach volleyball, tropical climate, lives near the coast.",Beach Lover,./out/a0d9b46d-1d02-4ef2-95dc-29bcaf2e4885.png,0
+4,"Enjoys visiting art galleries, attending theater shows, lives in a culturally rich urban area.",Art and Culture Aficionado,./out/866c26c8-5547-46ea-9a72-96eb7f378cdf.png,1
+5,"Has three children, enjoys family activities, lives in a suburban area with good schools.",Family-Oriented,./out/84cc59f6-bbe5-40f7-be61-c82ee396d101.png,0
